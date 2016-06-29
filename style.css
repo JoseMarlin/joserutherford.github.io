@@ -1,0 +1,114 @@
+/*Page One*/
+
+
+.navbar{
+font-family: 'Bangers', cursive;
+font-size:20px;
+background-color:black;
+color:white;
+}
+
+.navbar-left{
+padding-top:6px;
+}
+
+#brand{
+font-size:25px;
+color:white;
+}
+
+.scrollable{
+	color:white;
+}
+
+
+body{
+overflow:hidden;
+}
+
+#pageone{ 
+background-image:url("https://s6.postimg.org/j7dwu754x/imageedit_5_3809631548.jpg");
+font-family: 'Fjalla One', sans-serif;
+background-size:cover;
+height:900px;  
+}
+
+#pageone_image 
+{
+  margin:0 auto;
+  width:450px;
+  height:281px;
+  transition: background-image 1s ease-in-out;
+  background-image:url("https://s6.postimg.org/zfyqhf3cx/imageedit_10_8138897009.jpg");
+}
+
+#pageone_image:hover {
+  background-image:url("https://s6.postimg.org/j7dwu754x/imageedit_5_3809631548.jpg");
+}
+
+.img{
+ position: center;
+ text-align:center;
+ padding-top:110px; 
+ 
+}
+
+.Jose
+{
+padding-top:30px;
+padding-bottom: auto; 
+font-size:90px;
+text-align:center;
+color:red;
+}
+ 
+hr
+{
+  width:38%;
+  border:px solid white;
+  padding-top:0px;
+  
+}
+
+.tag
+{
+ text-align:center;
+ font-size:29px;
+ color:gold;
+ font-weight:800px;
+}
+
+/*Page Two*/
+
+.pagetwo
+{  background:url("https://s6.postimg.org/zfyqhf3cx/imageedit_10_8138897009.jpg");
+background-size:cover;
+height:900px;
+padding-left:40px;
+font-size:25px;
+align:center;
+}
+
+
+/*Page Three*/
+
+.study{
+font-size:80px;
+}
+
+#studygrid{
+font-size:50px;
+padding-bottom:230px;
+padding-left:340px;
+width:78%;
+}
+
+.progress-bar{
+
+padding-left:40px;
+}
+
+
+
+
+
